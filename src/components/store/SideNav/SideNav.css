@@ -1,0 +1,9 @@
+aside h3::after {
+    content: '';
+    display: block;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: black;
+    transition: all 0.3s;
+}

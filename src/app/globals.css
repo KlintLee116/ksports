@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navIcons {
+    @apply w-6 aspect-square h-full cursor-pointer
+}
+
+* {
+    caret-color: transparent;
+}
+
+input {
+    caret-color: black;
+}
