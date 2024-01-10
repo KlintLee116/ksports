@@ -5,7 +5,7 @@ const nextConfig = {
     },
     images:{
         remotePatterns:[
-           
+        
             {
                 protocol:'https',
                 hostname:"ksports.s3.us-east-2.amazonaws.com",
